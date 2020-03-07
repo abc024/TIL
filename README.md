@@ -1,5 +1,5 @@
 ## 学んだことのおぼえがき
-- '/大分類/yyyymmdd_hogehoge'で作成
+- /大分類/yyyymmdd_hogehogeで作成
 - 以下やりたいことスタック
   - 100本ノック
   - AtCoder
