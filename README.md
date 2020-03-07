@@ -1,1 +1,12 @@
 ## 学んだことのおぼえがき
+- '/大分類/yyyymmdd_hogehoge'で作成
+- 以下やりたいことスタック
+  - 100本ノック
+  - AtCoder
+  - Oracle Java 銀と金
+  - 金融工学
+  - go
+  - aws
+  - ML一般
+  - Kaggle
+  - インフラ、web
